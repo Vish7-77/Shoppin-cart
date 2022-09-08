@@ -1,0 +1,20 @@
+.bindu{
+    background-color: red;
+    width: 20px;
+    height: 20px;
+    position:absolute;
+    text-align: center;
+    border-radius: 50%;
+  
+    right: 50px; 
+
+
+    
+}
+
+.divv{
+    position:relative;
+    width: 14%;
+    display: flex;
+    justify-content: space-evenly;
+}
